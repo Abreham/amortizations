@@ -1,4 +1,5 @@
-paypal-exercise
+paypal-java-exercise
 ===============
 
-paypal high jump exercise
+paypal high jump code refactor exercise
+   
