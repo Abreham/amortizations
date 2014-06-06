@@ -1,4 +1,4 @@
-This is a high jump java code re-factor exercise for Paypal code interview
+This is a high jump java code re-factor exercise
 =============================================================================
 
 Assumptions:
