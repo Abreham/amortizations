@@ -1,4 +1,4 @@
-Java code re-factor exercise refactoring AmortizationScheduleOld.java using best practice
+Java code re-factor exercise originalCode is AmortizationScheduleOld.java using OO best practice
 =============================================================================
 
 Assumptions:
