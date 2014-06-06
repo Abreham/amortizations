@@ -1,5 +1,4 @@
-This is a high jump java code re-factor exercise
-refactoring AmortizationScheduleOld.java using best practice
+Java code re-factor exercise refactoring AmortizationScheduleOld.java using best practice
 =============================================================================
 
 Assumptions:
